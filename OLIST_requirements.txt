@@ -1,0 +1,9 @@
+#datascience
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+notebook
+tensorflow
+os
